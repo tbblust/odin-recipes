@@ -1,0 +1,26 @@
+* {
+    background-color:antiquewhite;
+    color:  black;
+    text-align: center;
+    list-style-position: inside;
+}
+
+h1 {
+    font-family:'Courier New', Courier, monospace;
+    text-align: center;
+    font-size: 48px;
+}
+
+li {
+    color: cadetblue;
+}
+
+a {
+    color: coral;
+    font-size: 32px;
+}
+
+.too-large{
+    width: 800px;
+    height: auto
+}
